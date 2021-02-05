@@ -12,6 +12,7 @@ h1 {
     font-size: 100px;
     color: khaki;
     text-align: center;
+    background-image: url("../images/pattern.jpg");
 }
 
 h2 {
@@ -23,3 +24,16 @@ h2 {
 .price {
     color: blue;
 }
+
+#brushes {
+    background-color: mediumspringgreen;
+}
+
+#frames {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
+
